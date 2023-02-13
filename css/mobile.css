@@ -30,7 +30,7 @@
     .section2_text{
         width: 90%;
         margin: 10px auto 0 auto;
-        font-size: 0.65rem;
+        font-size: 0.55rem;
     }
     h1 {
         font-size: 2rem;
@@ -50,7 +50,6 @@
     article {
         padding: 43px 0 88px 0;
     }
-
     h2 {
         font-size: 1.5rem;
         margin-bottom: 56px;
